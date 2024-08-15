@@ -79,6 +79,6 @@ Here are screenshots showing the completion of the project. I've kept the explan
 
 It's essential to verify the policy implementation and domain member assignments from the client side. I conducted this project in my home lab environment. You can set up your own home lab or use a virtual machine to do the same.
 
-Feel free to practice on your own to explore additional features in Active Directory, such as resetting account passwords, unlocking locked accounts, disabling and enabling accounts, changing group memberships, and modifying privileges.
+Feel free to practice on your own to explore additional features in Active Directory, such as resetting account passwords, unlocking locked accounts, disabling and enabling accounts, changing group memberships, modifying privileges, and more.
 
 I plan to work on and share similar projects in the future! 
