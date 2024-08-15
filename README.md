@@ -81,3 +81,4 @@ It's essential to verify the policy implementation and domain member assignments
 
 Feel free to practice on your own to explore additional features in Active Directory, such as resetting account passwords, unlocking locked accounts, disabling and enabling accounts, changing group memberships, and modifying privileges.
 
+I plan to work on and share similar projects in the future! 
