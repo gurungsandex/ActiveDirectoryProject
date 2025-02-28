@@ -42,7 +42,7 @@ This project involves configuring an Active Directory environment to handle user
 ## Screenshots 
 Here are screenshots showing the completion of the project. I've kept the explanation simple and easy to follow, without going into too much detail. The steps are straightforward and easy to understand.
 1. Start by creating a Windows Server EC2 instance using your AWS account. This step is quite simple, and there are plenty of tutorials and videos available online to guide you through the process. Plus, it's free to use.
-2. Download the "Microsoft Remote Desktop" application and use it to connect to your Windows Server EC2 instance.
+2. Download the "Windows App" application to connect to Windows Server EC2 instance.
    ![rdp](https://github.com/user-attachments/assets/784ef952-6267-4d29-a0d7-e87370de7796)
 3. After logging into the server, open Server Manager, navigate to "Add Roles and Features," and install "Active Directory Domain Services".
   ![install AD](https://github.com/user-attachments/assets/f158804f-21f7-4b15-b74c-086b76fb36dd)
