@@ -6,7 +6,7 @@
 Set up an Active Directory environment focusing on user and group management tasks.
 
 ## Overview:
-This project involves configuring an Active Directory environment to handle basic user and group management tasks. The server is hosted on Amazon EC2, dedicated home lab environment.
+This project involves configuring an Active Directory environment to handle user and group management tasks. The server is hosted on Amazon EC2, dedicated home lab environment.
 
 ## Tasks Completed
 1. **Organizational Units (OUs) Creation**
